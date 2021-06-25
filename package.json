@@ -2,7 +2,7 @@
   "name": "uctui",
   "version": "1.0.0",
   "description": "UCT，是uni-app生态优秀的业务组件框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水",
-  "author": "",
+  "author": "huoling",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "styleguide": "vue-styleguidist server",
