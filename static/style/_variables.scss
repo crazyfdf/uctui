@@ -3,6 +3,11 @@
  ==================== */
 $spaceTypes: (m: margin, p: padding);
 $spaceDirections: (t: top, r: right, b: bottom, l: left);
+
+// 字体大小(8-36)*2rpx
+$fontSizeStart: 8;
+$fontSizeEnd:36;
+
 // 偏移变量大小
 $spaceSizes: (2: 2rpx,
   4: 4rpx,

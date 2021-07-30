@@ -80,7 +80,7 @@ $type in $borderTypes {
 
 // // 字体模型
 // f12 font-size:12px;
-@for $i from 8 to 36 {
+@for $i from $fontSizeStart to $fontSizeEnd {
   .f#{$i} {
     font-size: $i*2rpx;
   }
